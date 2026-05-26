@@ -1,5 +1,7 @@
 # Fleet Management Dashboard — Power BI Project
 
+![Dashboard Banner](images/dashboard-overview.png)
+
 ## Project Overview
 
 The Fleet Management Dashboard is an interactive Business Intelligence solution developed using Power BI to monitor and analyze fleet operations, fuel usage, maintenance expenses, and driver performance.
